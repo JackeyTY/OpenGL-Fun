@@ -6,4 +6,4 @@
 
 ![img](img/img.png)
 
-Setup OpenGL pipeline and playing with shaders!
+Set up OpenGL pipeline and play with shaders!
